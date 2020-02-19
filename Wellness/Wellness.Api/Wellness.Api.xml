@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Wellness.Api</name>
+    </assembly>
+    <members>
+        <member name="T:Wellness.Api.Middleware.LoadBalancerMiddleware">
+            <summary>
+            Middleware for load balancing (Azure compatible)
+            </summary>
+        </member>
+        <member name="M:Wellness.Api.Middleware.LoadBalancerExtensions.UseLoadBalancerMiddleware(Microsoft.AspNetCore.Builder.IApplicationBuilder)">
+            <summary>
+            Adds the NLB middleware to the HTTP request pipeline.
+            </summary>
+        </member>
+    </members>
+</doc>

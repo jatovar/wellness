@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+    <ProjectGuid>
+      {c5c821d4-8282-48e0-8acb-7002495feafc}
+    </ProjectGuid>
+    <Configurations>Debug;Release;Staging</Configurations>
+  </PropertyGroup>
+
+</Project>
